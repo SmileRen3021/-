@@ -7,4 +7,4 @@
 
 已更新2 builds(v0.2).
 
-Baidu tieba id == @SmileREN2005 && Sina weibo id == 
+Baidu tieba id == @SmileREN2005 && Sina weibo id == @不靠谱xy && Tencent qq id == 1958949838
